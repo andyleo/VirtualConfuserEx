@@ -8,7 +8,7 @@ using Rpx;
 
 namespace VirtualConfuserEx
 {
-	class ProtectFull
+    class ProtectFull
     {
         private int size;
 
